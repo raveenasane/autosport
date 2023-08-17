@@ -1,0 +1,175 @@
+img{
+    width:160px;
+    height:75px;
+}
+#go{
+    color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    border:0px;
+}
+#go:hover{
+    color:#c90202;
+}
+#go1{
+     background-color:#c90202;
+     color:beige;
+     border-radius:5px;
+     font-family:Arial, Helvetica, sans-serif;
+     padding:5px 10px;
+     font-weight:bold;
+     border:0px;
+     margin-left:20px;
+}
+#go1:hover{
+    color:#c90202;
+    background-color:beige;
+}
+.bgimg{
+    background-image: url("https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg");
+    background-size:cover;
+    height:80vh;
+}
+.head{
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+    font-weight:bold;
+}
+.para{
+    font-size:24px;
+    color:#f5f7fa;
+    font-weight:300;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.button{
+    color:whitesmoke;
+    background-color:#c90202;
+    border-width:0px;
+    padding:10px;
+    border-radius:8px;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bgcolor{
+    background-color: #f9fbfe;
+}
+.head1{
+    color:#183b56;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:700;
+}
+.para1{
+     color:#5a7184;
+     font-family:Arial, Helvetica, sans-serif;
+     font-size:20px;
+}
+.card1{
+    text-align:center;
+    background-color:white;
+    border-style:solid;
+    border-width:1px;
+    border-radius:20px;
+    border-color:#e5eaf4;
+}
+.img1{
+    height:90px;
+    width:90px;
+}
+.card-head{
+    color:#323f4b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:22px;
+}
+.card-para{
+    font-size:18px;
+    color:#323f4b;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bgcolor{
+    background-color:white;
+}
+.explore{
+    color:#183b56;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight:700;
+}
+.explorecards{
+    border-radius:16px;
+}
+.image1{
+    border-radius:16px;
+    height:140px;
+    width:100px;
+}
+.head-card1{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-weight:bold;
+    margin-top:24px;
+}
+.explorelink{
+    color:#c90202;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    font-weight:bold;
+}
+.paybg{
+    background-color:white;
+}
+.paymenting{
+    width:350px;
+}
+.payhead{
+    color:#183b56;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight:700;
+}
+.paypara{
+    color:#5a7184;
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.payimage{
+    width:400px;
+    height:200px;
+}
+.paybutton{
+    color:whitesmoke;
+    background-color: #c90202;
+    width:130px;
+    height:45px;
+    border-width:0;
+    border-radius:8px;
+    margin-right:10px;
+}
+.paycard{
+    width:50px;
+    height:50px;
+    margin-right:28px;
+}
+#contact{
+    background-color:rgb(211,79,79);
+    padding-bottom:4rem;
+}
+.icons{
+    font-size:40px;
+    cursor:pointer;
+}
+#icenter1{
+    text-align:center;
+}
+.fa-brands{
+    color:white;
+}
+.fa-instagram,.fa-facebook,.fa-linkedin{
+    margin:40px;
+}
+.fa-instagram:hover,.fa-facebook:hover,.fa-linkedin:hover{
+    color:#c90202;
+}
